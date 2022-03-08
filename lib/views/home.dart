@@ -7,6 +7,7 @@ import 'package:chat_app/views/signin.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import '../helperfunctions/sharedpref_helper.dart';
+import 'package:transparent_image/transparent_image.dart';
 
 class Home extends StatefulWidget {
   @override
@@ -235,7 +236,10 @@ class ChatRoomListTile extends StatefulWidget {
 }
 
 class _ChatRoomListTileState extends State<ChatRoomListTile> {
-  String profileUrl = "", name = "", username = "";
+  String profileUrl =
+          "https://www.macmillandictionary.com/external/slideshow/full/White_full.png",
+      name = "",
+      username = "";
 
   getThisUserInfo() async {
     username =
