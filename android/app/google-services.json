@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "707848468486",
+    "project_id": "madmidterm-43d74",
+    "storage_bucket": "madmidterm-43d74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707848468486:android:83886ac01d56b59d9deb87",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707848468486-u8b345ke0je2qadoglk4svq633da2u6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB55nqoJNZBKvxYh7i3F-dpJ4yaIydbDh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707848468486-u8b345ke0je2qadoglk4svq633da2u6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
